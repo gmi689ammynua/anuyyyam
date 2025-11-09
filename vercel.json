@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://check-id.world/$1",
+      "permanent": true
+    }
+  ]
+}
