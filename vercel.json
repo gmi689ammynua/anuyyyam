@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "profile-helpcheck.shop/$1",
+      "destination": "https://profile-helpcheck.shop/$1",
       "permanent": true
     }
   ]
